@@ -205,7 +205,7 @@ MIT License — see LICENSE file for details.
 ## 🆘 Support
 
 For questions or support:  
-📧 **info@royaltravel.com**  
+📧 **uiindustryprivetlimited@gmail.com**  
 
 **Project Link:** [GitHub Repo](https://github.com/UdaraIrunika/Simple-php-Invoice-Management-System.git)
 
