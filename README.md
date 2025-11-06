@@ -103,11 +103,8 @@ royal-travel-invoices/
 ├── invoice_view.php
 ├── generate_pdf.php
 ├── logout.php
-├── assets/
-│   ├── css/style.css
-│   ├── js/custom.js
-│   └── uploads/
-└── database/schema.sql
+└── database.sql
+└── style.css
 ```
 
 ---
