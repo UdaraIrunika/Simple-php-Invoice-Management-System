@@ -199,6 +199,34 @@ MIT License — see LICENSE file for details.
 
 ---
 
+## 📄 Screenshots
+
+<img width="1919" height="957" alt="Screenshot 2025-11-07 042640" src="https://github.com/user-attachments/assets/e75afb6a-267c-410f-a55a-ab92742758da" />
+
+<img width="1905" height="958" alt="Screenshot 2025-11-07 042654" src="https://github.com/user-attachments/assets/ac5c18e9-e278-4e14-8823-1570858483b7" />
+
+<img width="1901" height="955" alt="Screenshot 2025-11-07 042709" src="https://github.com/user-attachments/assets/643bb6d4-64bd-4e74-9665-6b73fa36bd91" />
+
+<img width="1919" height="958" alt="Screenshot 2025-11-07 042718" src="https://github.com/user-attachments/assets/dab9c009-c3ce-4d33-aae1-b42aa95fbf71" />
+
+<img width="1919" height="960" alt="Screenshot 2025-11-07 042726" src="https://github.com/user-attachments/assets/7c05d50d-1fc0-4aaa-a786-d82bd44f7cf3" />
+
+<img width="1919" height="957" alt="Screenshot 2025-11-07 042732" src="https://github.com/user-attachments/assets/7c0d5bdc-62dd-4d75-920b-35a8c459c744" />
+
+<img width="1906" height="957" alt="Screenshot 2025-11-07 042741" src="https://github.com/user-attachments/assets/4230e78c-d4cd-4cda-a37d-684de5bd3351" />
+
+<img width="1905" height="959" alt="Screenshot 2025-11-07 042754" src="https://github.com/user-attachments/assets/1c9375f5-8fd5-4841-900b-98343a1ca1b2" />
+
+<img width="1919" height="960" alt="Screenshot 2025-11-07 042801" src="https://github.com/user-attachments/assets/f3466d50-a8f8-44b1-b813-d6a354cd13d4" />
+
+<img width="1918" height="964" alt="Screenshot 2025-11-07 042808" src="https://github.com/user-attachments/assets/f64d14a1-bb59-41e2-afcc-d8306053dd3d" />
+
+<img width="1919" height="960" alt="Screenshot 2025-11-07 042814" src="https://github.com/user-attachments/assets/7571c659-a86a-4f9a-8f49-598f046aba1b" />
+
+<img width="1904" height="952" alt="Screenshot 2025-11-07 042822" src="https://github.com/user-attachments/assets/8acce344-a530-4837-840f-ecd364b32cbd" />
+
+---
+
 ## 🆘 Support
 
 For questions or support:  
